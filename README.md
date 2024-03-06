@@ -1,3 +1,5 @@
+# Baixe e descomente (apagar a #) do import matplotlib
+
 # Instalações
 ### *pip install streamlit*
 ### *pip install matplotlib*
