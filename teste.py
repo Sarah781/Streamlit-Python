@@ -1,5 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import random
 
 st.set_page_config(page_title='Streamlit', page_icon="👋")
